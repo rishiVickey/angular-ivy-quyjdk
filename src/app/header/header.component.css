@@ -1,0 +1,15 @@
+.head-back {
+  background-color: blue;
+}
+
+.head-back > ul > li {
+  list-style: none;
+  display: inline-flex;
+  margin-left: 20%;
+}
+
+.head-back > ul > li > a {
+  color: white;
+  display: flexbox;
+  border: 1px solid white;
+}
